@@ -1,4 +1,4 @@
-#include "AStar.h"
+#include "AStar.hpp"
 
 #include <cmath>
 #include <ctime>
