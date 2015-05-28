@@ -22,4 +22,7 @@ None! :)
 
 
 ### Examples of usage
-Example of usage can be found in file `example.cpp` along with comments.
+Example of usage can be found in files `example*.cpp` (with comments).
+
+`exampleInheritance.cpp` - uses inheritance to implement adapter functionality.
+`exampleFunctional.cpp` - uses binded functions (std::function<>) to implement adapter functionality.
